@@ -1,0 +1,7 @@
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\bin\Debug\programlama_Odev.exe.config
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\bin\Debug\programlama_Odev.exe
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\bin\Debug\programlama_Odev.pdb
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\obj\Debug\programlama_Odev.csproj.AssemblyReference.cache
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\obj\Debug\programlama_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\obj\Debug\programlama_Odev.exe
+C:\Users\ErkanK\source\repos\programlama_Odev\programlama_Odev\obj\Debug\programlama_Odev.pdb
